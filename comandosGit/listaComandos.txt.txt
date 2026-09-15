@@ -1,3 +1,9 @@
 git clone: <Este comando sirve para poder copiar o "clonar" un repositorio remoto de github en un directorio local del equipo en el que se esta trabajando>
 
 git commit: <sirve para guardar de forma permanente los cambios preparados en el historial del repositorio local>
+
+git push:<Sube los cambios locales ya guardados hacia un repositorio en la nube>
+
+git status: <Muestra el estado actual del proyecto y mostrar que archivos han cambiado, cuales estan listos para guardarse y los que faltan de agregar>
+
+git add: <Prepara o agrega los archivos creados o modificados al staging area>
