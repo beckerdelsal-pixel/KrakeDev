@@ -1,0 +1,1 @@
+git clone: <Este comando sirve para poder copiar o "clonar" un repositorio remoto de github en un directorio local del equipo en el que se esta trabajando>
