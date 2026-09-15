@@ -1,3 +1,7 @@
 Nombre: Becker Del Salto
-Edad: 21
+
 Hobby: Jugar Videojuegos
+
+Pelicula favorita: Coraline y la Puerta Secreta
+
+Comida favorita: Seco de Gallina
